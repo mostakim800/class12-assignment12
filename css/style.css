@@ -1,0 +1,16 @@
+body{
+    background: #333333;
+    color: #fff;
+}
+
+.navbar{
+    border-bottom: 3px solid #096d9f;
+    background: #2e2f2f;
+    opacity: 0.7;
+}
+#home section{
+    background: url(../img/photo-1599655094604-124d6d7d4af7.jpg);
+    no-repeat center top;
+    background-size: cover;
+    min-height: 700px;
+}
